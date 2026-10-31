@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="ISO 42001 AI Governance Implementation" width="100%">
+<img width="2800" height="680" alt="banner" src="https://github.com/user-attachments/assets/b8657461-74a8-45c8-b4cb-3e06196f0181" />
+
 </p>
 
 # ISO 42001 AI Governance Implementation
@@ -69,7 +70,6 @@ Every record has an anchor, and each document links to the others, so a reviewer
 ```
 iso42001-ai-governance-implementation/
 ├── README.md
-├── assets/banner.jpg
 ├── docs/
 │   ├── 01-ai-asset-inventory.md
 │   ├── 02-ai-risk-register.md
@@ -82,6 +82,4 @@ iso42001-ai-governance-implementation/
 
 MindfulAI Labs is a fictional company. All assets, risks, controls, policies, owners, ratings and dates are examples created for skills practice and portfolio use. This is not legal advice or a compliance determination. Framework and law references are paraphrased pointers, so verify them against the source text before relying on them.
 
-## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
